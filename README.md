@@ -10,4 +10,5 @@
 * Fernando Donoso
 * Gerardo Calderón 
 * Matia Bravo
+* Vicente Morales
 * Yeral Mendez (cejas de azotador)
