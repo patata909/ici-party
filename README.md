@@ -21,3 +21,5 @@
 * Javier Molina
 * Benjamín Ocaranza
 * Carlos Rojas Valdés
+* Nicolás Quintana
+* Carlos Moreno
