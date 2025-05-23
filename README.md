@@ -10,6 +10,7 @@
 * Fernando Donoso
 * Gerardo Calderón 
 * Matia Bravo
+* Angel Maureira
 * Alonso López
 * Matias garrido
 * Diego Jara
