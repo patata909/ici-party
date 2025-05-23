@@ -24,3 +24,4 @@
 * Carlos Rojas Valdés
 * Nicolás Quintana
 * Carlos Moreno
+* Vicente Sepúlveda
