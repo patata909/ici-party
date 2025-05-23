@@ -10,3 +10,4 @@
 * Fernando Donoso
 * Gerardo Calderón 
 * Matia Bravo
+* Javier Molina
