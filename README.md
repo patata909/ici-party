@@ -11,3 +11,9 @@
 * Gerardo Calderón 
 * Matia Bravo
 * Alonso López
+* Matias garrido
+* Diego Jara
+* Geronimo Benavidess
+* Vicente Morales
+* Yeral Mendez (cejas de azotador)
+* Javier Molina
