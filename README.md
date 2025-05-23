@@ -19,3 +19,4 @@
 * Vicente Morales
 * Yeral Mendez (cejas de azotador)
 * Javier Molina
+* María José Neira uwu
