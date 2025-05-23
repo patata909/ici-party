@@ -20,4 +20,5 @@
 * Yeral Mendez (cejas de azotador)
 * Javier Molina
 * Benjamín Ocaranza
+* Nicolás Quintana
 * Carlos Moreno
